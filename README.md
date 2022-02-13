@@ -14,6 +14,7 @@
 | `1장` 협력하는 객체들의 공동체 | [링크](./rabbit/chapter1.md) |
 | `2장` 이상한 나라의 객체       | [링크](./rabbit/chapter2.md) |
 | `3장` 타입과 추상화            | [링크](./rabbit/chapter3.md) |
+| `4장` 역할, 책임, 협력         | [링크](./rabbit/chapter4.md) |
 
 ### 참고자료
 
